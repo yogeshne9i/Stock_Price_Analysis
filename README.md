@@ -1,13 +1,13 @@
-# AI & ML Mini Project – Predictive Analytics and Data Visualization
+# AI & ML Minor Project – Stock_Price_Trend_Analysis_and_Prediction
 
-This repository contains my AI & ML mini project created during the **Skill Ladder Training and Internship Program**.  
+This repository contains my AI & ML minor project created during the **Skill Ladder Training and Internship Program**.  
 The project demonstrates the complete workflow of a beginner–friendly machine learning pipeline:
 data loading, cleaning, exploratory data analysis (EDA), feature engineering, model building,
 evaluation, and visualization.
 
 ---
 
-## 📁 Datasets Used
+## Datasets Used
 
 1. **Superstore Excel File**
    - Sheets:
@@ -41,7 +41,7 @@ evaluation, and visualization.
 
 ---
 
-## 🧠 Project Components
+##  Project Components
 
 ### 1. Data Loading and Cleaning
 
@@ -62,7 +62,7 @@ evaluation, and visualization.
 
 ### 2. Exploratory Data Analysis (EDA)
 
-#### 📊 Superstore Data (Sales & Returns)
+####  Superstore Data (Sales & Returns)
 
 - Basic summaries: total sales, average sales, number of orders
 - Grouped analysis:
@@ -74,7 +74,7 @@ evaluation, and visualization.
   - Bar charts for sales by region
   - Bar charts for count of returns by region/manager
 
-#### 📈 US Stock & Energy Data
+#### US Stock & Energy Data
 
 - Average **Netflix** price by **year** and **month**
 - Time series plots for:
@@ -131,7 +131,7 @@ Using **Advertising.csv**:
 
 ---
 
-## ✅ Possible Extensions (Future Work)
+## Possible Extensions (Future Work)
 
 - Try other models:
   - **Ridge** or **Lasso Regression**
@@ -142,7 +142,7 @@ Using **Advertising.csv**:
 
 ---
 
-## 🧪 How to Run This Project in Google Colab
+## How to Run This Project in Google Colab
 
 1. Open **Google Colab**:  
    `https://colab.research.google.com/`
