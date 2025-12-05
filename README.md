@@ -149,7 +149,7 @@ Using **Advertising.csv**:
 
 2. Upload the notebook:
    - Go to **File → Upload Notebook**
-   - Select `ai_ml_mini_project.ipynb` (from this repo if downloaded)
+   - Select `Stock Price Trend Analysis and Prediction.ipynb` (from this repo if downloaded)
 
 3. Upload datasets:
    - Either:
