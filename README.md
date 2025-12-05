@@ -159,4 +159,34 @@ Using **Advertising.csv**:
 4. Install any required libraries (if needed), for example:
    ```python
    !pip install pandas matplotlib seaborn scikit-learn
+5. Run all cells in order:
 
+Runtime → Run all
+
+---
+
+## Training & Acknowledgements
+
+This project was completed as part of the
+Skill Ladder – AI & ML Training and Internship Program.
+
+I would like to thank Skill Ladder for providing guidance, course material,
+and practical exposure to real-world datasets.
+
+---
+
+## Technologies Used
+
+- Python
+
+- Pandas
+
+- NumPy
+
+- Matplotlib / Seaborn
+
+- Scikit-learn
+
+- Google Colab
+
+- GitHub
